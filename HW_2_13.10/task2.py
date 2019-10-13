@@ -21,16 +21,4 @@
 # 10.1
 # +                                                                  30.2
 
-a = float(input())
-b = float(input())
-c = input()
-if c == "+" :
-   print(a + b)
-elif c == "-":
-    print(a - b)
-elif c == "*":
-    print( a * b)
-elif c=="/" and b!=0 and a!=0:
-    print(a / b)
-else:
-    print("ЫЫЫЫЫЫ") 
+
